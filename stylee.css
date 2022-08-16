@@ -1,0 +1,24 @@
+body{
+    background-color: #CEEEEC;
+}
+table{
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    border: 3px solid;
+    text-align: center;
+    margin: auto;
+    padding: 3px;
+    border-color: #84c2b8;
+    box-shadow: 8px 8px 5px #46666144 ;
+}
+table td{
+    border: 2px solid; 
+    padding: 10px;
+    border-color: #84c2b8;
+}
+.elementos_buscas{
+    max-width: 1000px;
+}
+.cep form{
+    border-radius: 30px;
+}
